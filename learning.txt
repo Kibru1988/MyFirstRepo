@@ -1,3 +1,4 @@
 learning
 What I have learned from this course
 So far, I've learned that GitHub serves as a vital platform for version control and collaboration using Git. I now understand how to clone a remote repository to my local machine, effectively creating a local copy of a project. Furthermore, I've grasped the fundamental workflow of initializing a local repository, making changes, staging them with git add, and then committing those changes with git commit to record project history locally
+So far, I've learned the fundamental importance of navigating the Linux filesystem using commands like 'cd' and 'ls', and how to manage file permissions with 'chmod' to ensure scripts are executable. Understanding the shell environment is key to DevOps.
